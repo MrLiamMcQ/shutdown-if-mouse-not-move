@@ -1,0 +1,8 @@
+﻿  Project1.cpp
+c:\users\liam\source\repos\project1\project1\project1.cpp(108): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  Generating code
+  1 of 148 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Liam\source\repos\Project1\Release\Project1.exe
